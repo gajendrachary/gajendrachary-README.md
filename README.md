@@ -8,4 +8,9 @@ Full-stack developer building scalable web and mobile applications for businesse
 
 ## Contact
 - GitHub: [@gajendrachary](https://github.com/gajendrachary)
-- Company: [DevHorizon Technologies](https://devhorizon.in)
+- Company: [DevHorizon Technologies](https://devhorizontech.com)
+
+
+## Tech Stack
+- JavaScript, Python, HTML/CSS
+- React, Node.js, Google Cloud
